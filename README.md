@@ -7,4 +7,4 @@ This version only has 2 types of electrons and only 3 questions :<
 
 I want to add more types of electrons:
 - free electrons - that have an equal amount of both extremes (because they would be free from labels)
-- 
+  
